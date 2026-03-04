@@ -1,0 +1,8 @@
+{
+  "primaryColor": "#0f172a",
+  "secondaryColor": "#0ea5e9",
+  "fontFamily": "\"Sora\", \"Manrope\", sans-serif",
+  "baseFontSize": "16px",
+  "spacingUnit": "0.25rem",
+  "borderRadius": "0.5rem"
+}
